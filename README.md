@@ -1,2 +1,2 @@
 # Validated-form-react
-react registration form >> validation explained inside INSTRUCTIONS.md
+react registration form >> validation explained inside Notes.md
