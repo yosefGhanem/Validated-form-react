@@ -21,6 +21,7 @@ The validation conditions are :
 
 - Clearing the form after a successful submission using clearForm 
 - Finally using onBlur >> https://legacy.reactjs.org/docs/events.html#focus-events
+"onBlur event, which is called whenever the input loses focus, so that guarantees the user has interacted with the password input at least once"
 
 How can you run this react code ?
 - Move to terminal then change the directory where app.js exists using the command: cd 
